@@ -1,0 +1,1181 @@
+{
+   
+    "results":[
+          {
+             "artistName":"Taylor Swift",
+             "id":"1552791073",
+             "releaseDate":"2021-04-09",
+             "name":"Fearless (Taylor's Version)",
+             "kind":"album",
+             "copyright":"℗ 2021 Taylor Swift",
+             "artistId":"159260351",
+             "artistUrl":"https://music.apple.com/us/artist/taylor-swift/159260351?app=music",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/e0/d7/50/e0d750e8-b290-a8ff-88fe-8cbed749120c/21UMGIM09915.rgb.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6",
+                   "name":"Country",
+                   "url":"https://itunes.apple.com/us/genre/id6"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/fearless-taylors-version/1552791073?app=music"
+          },
+          {
+             "artistName":"MO3",
+             "id":"1560923807",
+             "releaseDate":"2021-04-09",
+             "name":"Shottaz 4Eva",
+             "kind":"album",
+             "copyright":"℗ 2021 H$M Music / EMPIRE",
+             "artistId":"289861771",
+             "contentAdvisoryRating":"Explicit",
+             "artistUrl":"https://music.apple.com/us/artist/mo3/289861771?app=music",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/27/07/bd/2707bd16-ff8c-01ee-02f2-a0d8ca873650/194690477201_cover.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"18",
+                   "name":"Hip-Hop/Rap",
+                   "url":"https://itunes.apple.com/us/genre/id18"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/shottaz-4eva/1560923807?app=music"
+          },
+          {
+             "artistName":"BROCKHAMPTON",
+             "id":"1560871621",
+             "releaseDate":"2021-04-02",
+             "name":"ROADRUNNER: NEW LIGHT, NEW MACHINE",
+             "kind":"album",
+             "copyright":"℗ 2021 Question Everything, Inc., under exclusive license to RCA Records, a division of Sony Music Entertainment",
+             "artistId":"960102996",
+             "contentAdvisoryRating":"Explicit",
+             "artistUrl":"https://music.apple.com/us/artist/brockhampton/960102996?app=music",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/b3/1b/71/b31b7185-0b32-6375-4122-ce67c353f1c7/886449195084.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"18",
+                   "name":"Hip-Hop/Rap",
+                   "url":"https://itunes.apple.com/us/genre/id18"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/roadrunner-new-light-new-machine/1560871621?app=music"
+          },
+          {
+             "artistName":"Miguel",
+             "id":"1561005532",
+             "releaseDate":"2021-04-09",
+             "name":"Art Dealer Chic 4 - EP",
+             "kind":"album",
+             "copyright":"℗ 2021 ByStorm Entertainment and RCA Records, a division of Sony Music Entertainment",
+             "artistId":"29254083",
+             "contentAdvisoryRating":"Explicit",
+             "artistUrl":"https://music.apple.com/us/artist/miguel/29254083?app=music",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fb/d2/ec/fbd2ecf3-3e34-7ee6-96e6-8193fa4b15a9/886448814078.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"15",
+                   "name":"R\u0026B/Soul",
+                   "url":"https://itunes.apple.com/us/genre/id15"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/art-dealer-chic-4-ep/1561005532?app=music"
+          },
+          {
+             "artistName":"Luke Bryan",
+             "id":"1550971598",
+             "releaseDate":"2021-04-09",
+             "name":"Born Here Live Here Die Here (Deluxe Edition)",
+             "kind":"album",
+             "copyright":"A Capitol Records Nashville Release; ℗ 2021 Row Crop Records, LLC, under exclusive license to UMG Recordings, Inc.",
+             "artistId":"20131064",
+             "artistUrl":"https://music.apple.com/us/artist/luke-bryan/20131064?app=music",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/28/3d/dd/283ddd87-9814-a77c-80eb-7545a819e5e4/20UMGIM86979.rgb.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6",
+                   "name":"Country",
+                   "url":"https://itunes.apple.com/us/genre/id6"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/born-here-live-here-die-here-deluxe-edition/1550971598?app=music"
+          },
+          {
+             "artistName":"Lakeyah",
+             "id":"1560216254",
+             "releaseDate":"2021-04-09",
+             "name":"In Due Time",
+             "kind":"album",
+             "copyright":"℗ 2021 Quality Control Music",
+             "artistId":"1534037237",
+             "contentAdvisoryRating":"Explicit",
+             "artistUrl":"https://music.apple.com/us/artist/lakeyah/1534037237?app=music",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/5c/99/4d/5c994dcf-bca3-8629-9c1c-498a69bffded/21UMGIM25253.rgb.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"18",
+                   "name":"Hip-Hop/Rap",
+                   "url":"https://itunes.apple.com/us/genre/id18"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/in-due-time/1560216254?app=music"
+          },
+          {
+             "artistName":"Briston Maroney",
+             "id":"1550391404",
+             "releaseDate":"2021-04-09",
+             "name":"Sunflower",
+             "kind":"album",
+             "copyright":"℗ 2021 Atlantic Recording Corporation",
+             "artistId":"418604503",
+             "artistUrl":"https://music.apple.com/us/artist/briston-maroney/418604503?app=music",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/74/37/9f/74379f49-8316-a3f9-6da5-5e93b81c2ae3/075679793348.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"20",
+                   "name":"Alternative",
+                   "url":"https://itunes.apple.com/us/genre/id20"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/sunflower/1550391404?app=music"
+          },
+          {
+             "artistName":"Kid Ink",
+             "id":"1559838151",
+             "releaseDate":"2021-04-09",
+             "name":"ALIVE",
+             "kind":"album",
+             "copyright":"℗ 2021 Tha Alumni",
+             "artistId":"432461273",
+             "contentAdvisoryRating":"Explicit",
+             "artistUrl":"https://music.apple.com/us/artist/kid-ink/432461273?app=music",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/c5/95/ea/c595eac2-5816-e2c1-97af-86d1daf19e60/19155.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"18",
+                   "name":"Hip-Hop/Rap",
+                   "url":"https://itunes.apple.com/us/genre/id18"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/alive/1559838151?app=music"
+          },
+          {
+             "artistName":"Esperanza Spalding",
+             "id":"1562207126",
+             "releaseDate":"2021-04-03",
+             "name":"AVAILABLE AT SONGWRIGHTSAPOTHECARYLAB.COM - Single",
+             "kind":"album",
+             "copyright":"℗ 2021 Esperanza Spalding Productions, LLC., Under exclusive license to Concord Records. Distributed by Concord.",
+             "artistId":"73212782",
+             "artistUrl":"https://music.apple.com/us/artist/esperanza-spalding/73212782?app=music",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/a5/7c/6b/a57c6b7e-d072-23af-5aa6-dbad2b6c2f48/21CRGIM26426.rgb.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"11",
+                   "name":"Jazz",
+                   "url":"https://itunes.apple.com/us/genre/id11"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/available-at-songwrightsapothecarylab-com-single/1562207126?app=music"
+          },
+          {
+             "artistName":"Fancy Hagood",
+             "id":"1556929855",
+             "releaseDate":"2021-04-09",
+             "name":"Fancy Hagood - Southern Curiosity (Apple Music Film Edition)",
+             "kind":"album",
+             "copyright":"℗ 2021 Mick Music",
+             "artistId":"859825960",
+             "artistUrl":"https://music.apple.com/us/artist/fancy-hagood/859825960?app=music",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/28/98/29/289829e5-42b5-03c1-b38b-acecfc00577d/024543399933.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"14",
+                   "name":"Pop",
+                   "url":"https://itunes.apple.com/us/genre/id14"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"20",
+                   "name":"Alternative",
+                   "url":"https://itunes.apple.com/us/genre/id20"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/fancy-hagood-southern-curiosity-apple-music-film-edition/1556929855?app=music"
+          },
+          {
+             "artistName":"Rhiannon Giddens",
+             "id":"1550582822",
+             "releaseDate":"2021-04-09",
+             "name":"They're Calling Me Home (with Francesco Turrisi)",
+             "kind":"album",
+             "copyright":"℗ 2021 Nonesuch Records Inc.",
+             "artistId":"271874135",
+             "artistUrl":"https://music.apple.com/us/artist/rhiannon-giddens/271874135?app=music",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/de/9b/87/de9b87ef-ba70-526f-71b4-de2cc5321d21/075597915716.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"10",
+                   "name":"Singer/Songwriter",
+                   "url":"https://itunes.apple.com/us/genre/id10"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/theyre-calling-me-home-with-francesco-turrisi/1550582822?app=music"
+          },
+          {
+             "artistName":"Cheap Trick",
+             "id":"1549551156",
+             "releaseDate":"2021-04-09",
+             "name":"In Another World",
+             "kind":"album",
+             "copyright":"℗ 2020 Cheap Trick Unlimited, Inc. under exclusive license to BMG Rights Management (US) LLC",
+             "artistId":"461577",
+             "artistUrl":"https://music.apple.com/us/artist/cheap-trick/461577?app=music",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/a8/6f/39/a86f39a2-5231-cc89-67c3-0168c935e7fc/4050538613575.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"21",
+                   "name":"Rock",
+                   "url":"https://itunes.apple.com/us/genre/id21"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/in-another-world/1549551156?app=music"
+          },
+          {
+             "artistName":"Merry Clayton",
+             "id":"1555631768",
+             "releaseDate":"2021-04-09",
+             "name":"Beautiful Scars",
+             "kind":"album",
+             "copyright":"A Motown Gospel Release; ℗ 2021 Ode Sounds \u0026 Visuals, under exclusive license to Capitol CMG, Inc.",
+             "artistId":"20362316",
+             "artistUrl":"https://music.apple.com/us/artist/merry-clayton/20362316?app=music",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/ca/bd/ad/cabdad81-8d60-fce8-4b32-22c0f22c4f3c/21UMGIM14600.rgb.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"1101",
+                   "name":"Gospel",
+                   "url":"https://itunes.apple.com/us/genre/id1101"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"22",
+                   "name":"Christian",
+                   "url":"https://itunes.apple.com/us/genre/id22"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/beautiful-scars/1555631768?app=music"
+          },
+          {
+             "artistName":"Parker Millsap",
+             "id":"1543271735",
+             "releaseDate":"2021-04-09",
+             "name":"Be Here Instead",
+             "kind":"album",
+             "copyright":"℗ 2021 Okrahoma Records marketed and distributed by Thirty Tigers",
+             "artistId":"525571790",
+             "artistUrl":"https://music.apple.com/us/artist/parker-millsap/525571790?app=music",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/a1/d5/ff/a1d5ff51-d3cf-0482-57c2-b4828671aba3/195497362387.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"10",
+                   "name":"Singer/Songwriter",
+                   "url":"https://itunes.apple.com/us/genre/id10"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/be-here-instead/1543271735?app=music"
+          },
+          {
+             "artistName":"Fela Kuti \u0026 Afrika 70",
+             "id":"1559305979",
+             "releaseDate":"1971-01-01",
+             "name":"Open \u0026 Close (Edit) - EP",
+             "kind":"album",
+             "copyright":"℗ 2021 Knitting Factory Records",
+             "artistId":"55088",
+             "artistUrl":"https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us\u0026ids=55088-1368389953\u0026app=music",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/f7/87/07/f787070e-5fa5-f953-c80c-e4558714f5b0/720841502333.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"19",
+                   "name":"Worldwide",
+                   "url":"https://itunes.apple.com/us/genre/id19"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"1203",
+                   "name":"African",
+                   "url":"https://itunes.apple.com/us/genre/id1203"
+                },
+                {
+                   "genreId":"1177",
+                   "name":"Afro-Beat",
+                   "url":"https://itunes.apple.com/us/genre/id1177"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/open-close-edit-ep/1559305979?app=music"
+          },
+          {
+             "artistName":"Overmono",
+             "id":"1556200079",
+             "releaseDate":"2021-04-09",
+             "name":"Pieces of 8 / Echo Rush - Single",
+             "kind":"album",
+             "copyright":"℗ 2021 XL Recordings Ltd",
+             "artistId":"1129806758",
+             "artistUrl":"https://music.apple.com/us/artist/overmono/1129806758?app=music",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/8d/f9/b7/8df9b7ff-c3bf-17bd-bd7f-72347307fdcf/191404107256.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"7",
+                   "name":"Electronic",
+                   "url":"https://itunes.apple.com/us/genre/id7"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/pieces-of-8-echo-rush-single/1556200079?app=music"
+          },
+          {
+             "artistName":"Nick Waterhouse",
+             "id":"1545443593",
+             "releaseDate":"2021-04-09",
+             "name":"Promenade Blue",
+             "kind":"album",
+             "copyright":"℗ 2021 Innovative Leisure",
+             "artistId":"153034252",
+             "artistUrl":"https://music.apple.com/us/artist/nick-waterhouse/153034252?app=music",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/7e/c6/42/7ec64269-5c69-feca-91ad-176129fd9f89/810874024374.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"21",
+                   "name":"Rock",
+                   "url":"https://itunes.apple.com/us/genre/id21"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"15",
+                   "name":"R\u0026B/Soul",
+                   "url":"https://itunes.apple.com/us/genre/id15"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/promenade-blue/1545443593?app=music"
+          },
+          {
+             "artistName":"Kierra Sheard",
+             "id":"1556714298",
+             "releaseDate":"2021-04-09",
+             "name":"KIERRA (Deluxe)",
+             "kind":"album",
+             "copyright":"℗ 2021 Karew Records \u0026 Ent, LLC, under exclusive license to Provident Label Group/RCA Inspiration",
+             "artistId":"120931396",
+             "artistUrl":"https://music.apple.com/us/artist/kierra-sheard/120931396?app=music",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/21/cc/a7/21cca760-b84d-dbd1-3a41-544fa4f44608/886449036622.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"22",
+                   "name":"Christian",
+                   "url":"https://itunes.apple.com/us/genre/id22"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/kierra-deluxe/1556714298?app=music"
+          },
+          {
+             "artistName":"Devil Sold His Soul",
+             "id":"1540583057",
+             "releaseDate":"2021-04-09",
+             "name":"Loss",
+             "kind":"album",
+             "copyright":"℗ 2021 Nuclear Blast",
+             "artistId":"75618953",
+             "contentAdvisoryRating":"Explicit",
+             "artistUrl":"https://music.apple.com/us/artist/devil-sold-his-soul/75618953?app=music",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/e4/4c/7b/e44c7b47-2689-fd69-53ef-761166f4a724/cover.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"1153",
+                   "name":"Metal",
+                   "url":"https://itunes.apple.com/us/genre/id1153"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"21",
+                   "name":"Rock",
+                   "url":"https://itunes.apple.com/us/genre/id21"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/loss/1540583057?app=music"
+          },
+          {
+             "artistName":"Modeselektor",
+             "id":"1557714474",
+             "releaseDate":"2021-04-09",
+             "name":"Extended",
+             "kind":"album",
+             "copyright":"℗ 2021 Monkeytown Records",
+             "artistId":"79932122",
+             "artistUrl":"https://music.apple.com/us/artist/modeselektor/79932122?app=music",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/db/02/98/db02983c-9109-389a-7387-98417412328f/0817231016621_3000.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"17",
+                   "name":"Dance",
+                   "url":"https://itunes.apple.com/us/genre/id17"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/extended/1557714474?app=music"
+          },
+          {
+             "artistName":"Hulvey",
+             "id":"1557351822",
+             "releaseDate":"2021-04-09",
+             "name":"Christopher",
+             "kind":"album",
+             "copyright":"℗ 2021 Reach Records",
+             "artistId":"1438377315",
+             "artistUrl":"https://music.apple.com/us/artist/hulvey/1438377315?app=music",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/66/09/a3/6609a34d-3003-a667-9a6c-0de37cf96d92/447.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"18",
+                   "name":"Hip-Hop/Rap",
+                   "url":"https://itunes.apple.com/us/genre/id18"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"22",
+                   "name":"Christian",
+                   "url":"https://itunes.apple.com/us/genre/id22"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/christopher/1557351822?app=music"
+          },
+          {
+             "artistName":"James Smith",
+             "id":"1557545926",
+             "releaseDate":"2021-04-09",
+             "name":"District Line EP",
+             "kind":"album",
+             "copyright":"℗ 2021 Bad Music",
+             "artistId":"1396118179",
+             "artistUrl":"https://music.apple.com/us/artist/james-smith/1396118179?app=music",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/77/20/12/7720122d-0185-7172-021f-2318d57136fd/196006258238.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"14",
+                   "name":"Pop",
+                   "url":"https://itunes.apple.com/us/genre/id14"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/district-line-ep/1557545926?app=music"
+          },
+          {
+             "artistName":"The Lion's Daughter",
+             "id":"1544538855",
+             "releaseDate":"2021-04-09",
+             "name":"Skin Show",
+             "kind":"album",
+             "copyright":"℗ 2021 Season of Mist",
+             "artistId":"700525531",
+             "artistUrl":"https://music.apple.com/us/artist/the-lions-daughter/700525531?app=music",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4f/69/a1/4f69a19b-265b-8550-6ef9-5ee94219c1b7/822603157802.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"1153",
+                   "name":"Metal",
+                   "url":"https://itunes.apple.com/us/genre/id1153"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"21",
+                   "name":"Rock",
+                   "url":"https://itunes.apple.com/us/genre/id21"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/skin-show/1544538855?app=music"
+          },
+          {
+             "artistName":"Roe Deers",
+             "id":"1556693309",
+             "releaseDate":"2021-04-09",
+             "name":"Voodoo Gym - EP",
+             "kind":"album",
+             "copyright":"℗ 2021 Turbo Recordings",
+             "artistId":"1111606120",
+             "artistUrl":"https://music.apple.com/us/artist/roe-deers/1111606120?app=music",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/78/31/62/78316296-7075-036b-28bf-7b927606d39a/4062548025361_3000.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"7",
+                   "name":"Electronic",
+                   "url":"https://itunes.apple.com/us/genre/id7"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"17",
+                   "name":"Dance",
+                   "url":"https://itunes.apple.com/us/genre/id17"
+                },
+                {
+                   "genreId":"1044",
+                   "name":"Breakbeat",
+                   "url":"https://itunes.apple.com/us/genre/id1044"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/voodoo-gym-ep/1556693309?app=music"
+          },
+          {
+             "artistName":"Max Richter",
+             "id":"1548766416",
+             "releaseDate":"2021-04-09",
+             "name":"Richter: Voices 2",
+             "kind":"album",
+             "copyright":"℗ 2021 Universal Music Operations Limited",
+             "artistId":"54782697",
+             "artistUrl":"https://music.apple.com/us/artist/max-richter/54782697?app=music",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/5e/2a/42/5e2a42ce-a445-6081-e6b1-4c5edae520d7/20UMGIM84988.rgb.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"5",
+                   "name":"Classical",
+                   "url":"https://itunes.apple.com/us/genre/id5"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"100004",
+                   "name":"Contemporary Era",
+                   "url":"https://itunes.apple.com/us/genre/id100004"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/richter-voices-2/1548766416?app=music"
+          },
+          {
+             "artistName":"Wanderist",
+             "id":"1553481401",
+             "releaseDate":"2021-04-09",
+             "name":"Translucid Dreams - EP",
+             "kind":"album",
+             "copyright":"℗ 2021 Simple Records / AUS Music - a division of K7 Music GmbH",
+             "artistId":"1528291791",
+             "artistUrl":"https://music.apple.com/us/artist/wanderist/1528291791?app=music",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/88/9f/bf/889fbff3-64d3-7537-b908-6085064985bc/4062548024005_3000.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"7",
+                   "name":"Electronic",
+                   "url":"https://itunes.apple.com/us/genre/id7"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/translucid-dreams-ep/1553481401?app=music"
+          },
+          {
+             "artistName":"YUKIKA",
+             "id":"1559863568",
+             "releaseDate":"2021-04-07",
+             "name":"timeabout, - EP",
+             "kind":"album",
+             "copyright":"℗ 2021 UBUNTU ENT, under license to YG PLUS",
+             "artistId":"1147788899",
+             "artistUrl":"https://music.apple.com/us/artist/yukika/1147788899?app=music",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/c2/09/7c/c2097cf9-042a-352d-bc41-b71131dee59b/timeabout.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"51",
+                   "name":"K-Pop",
+                   "url":"https://itunes.apple.com/us/genre/id51"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"14",
+                   "name":"Pop",
+                   "url":"https://itunes.apple.com/us/genre/id14"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/timeabout-ep/1559863568?app=music"
+          },
+          {
+             "artistName":"Rogér Fakhr",
+             "id":"1553499898",
+             "releaseDate":"2021-04-09",
+             "name":"Fine Anyway (Habibi Funk 016)",
+             "kind":"album",
+             "copyright":"℗ 2021 Habibi Funk Records distributed by Groove Attack",
+             "artistId":"1553739166",
+             "artistUrl":"https://music.apple.com/us/artist/rog%C3%A9r-fakhr/1553739166?app=music",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/54/6b/e8/546be8a7-9092-b610-cd0b-b580fa8fa58d/4018939442187_3000.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"19",
+                   "name":"Worldwide",
+                   "url":"https://itunes.apple.com/us/genre/id19"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"10",
+                   "name":"Singer/Songwriter",
+                   "url":"https://itunes.apple.com/us/genre/id10"
+                },
+                {
+                   "genreId":"1067",
+                   "name":"Traditional Folk",
+                   "url":"https://itunes.apple.com/us/genre/id1067"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/fine-anyway-habibi-funk-016/1553499898?app=music"
+          },
+          {
+             "artistName":"CFCF",
+             "id":"1552749493",
+             "releaseDate":"2021-04-09",
+             "name":"Memoryland",
+             "kind":"album",
+             "copyright":"℗ 2021 BGM Solutions",
+             "artistId":"274608349",
+             "artistUrl":"https://music.apple.com/us/artist/cfcf/274608349?app=music",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/5f/59/57/5f595743-e5cb-1cea-3bcb-3ef0c45efbbf/840200502658_cover.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"7",
+                   "name":"Electronic",
+                   "url":"https://itunes.apple.com/us/genre/id7"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"17",
+                   "name":"Dance",
+                   "url":"https://itunes.apple.com/us/genre/id17"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/memoryland/1552749493?app=music"
+          },
+          {
+             "artistName":"WENDY",
+             "id":"1560769290",
+             "releaseDate":"2021-04-05",
+             "name":"Like Water - The 1st Mini Album - EP",
+             "kind":"album",
+             "copyright":"℗ 2021 SM Entertainment",
+             "artistId":"840523045",
+             "artistUrl":"https://music.apple.com/us/artist/wendy/840523045?app=music",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5f/61/36/5f6136c8-32f1-7883-6951-ed929a6f9307/Digital_Cover_WENDY_The_1st_Mini_Album_Like_a_Water.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"51",
+                   "name":"K-Pop",
+                   "url":"https://itunes.apple.com/us/genre/id51"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"14",
+                   "name":"Pop",
+                   "url":"https://itunes.apple.com/us/genre/id14"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/like-water-the-1st-mini-album-ep/1560769290?app=music"
+          },
+          {
+             "artistName":"Eddie Fowlkes",
+             "id":"1556866409",
+             "releaseDate":"2021-04-09",
+             "name":"Knuckle Head Series Vol 6 - Single",
+             "kind":"album",
+             "copyright":"℗ 2021 City Boy Music",
+             "artistId":"207006480",
+             "artistUrl":"https://music.apple.com/us/artist/eddie-fowlkes/207006480?app=music",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/c9/a4/cdc9a497-cfd2-5a88-d5a8-cac2a2e405f5/8718723169684.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"17",
+                   "name":"Dance",
+                   "url":"https://itunes.apple.com/us/genre/id17"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"1048",
+                   "name":"House",
+                   "url":"https://itunes.apple.com/us/genre/id1048"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/knuckle-head-series-vol-6-single/1556866409?app=music"
+          },
+          {
+             "artistName":"Anz",
+             "id":"1560290407",
+             "releaseDate":"2021-04-09",
+             "name":"OTMI001 - Single",
+             "kind":"album",
+             "copyright":"℗ 2021 OTMI",
+             "artistId":"275171783",
+             "artistUrl":"https://music.apple.com/us/artist/anz/275171783?app=music",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/9b/1f/87/9b1f87e8-4bd8-15f4-e57a-5e5a71f3f64f/5050580759718.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"7",
+                   "name":"Electronic",
+                   "url":"https://itunes.apple.com/us/genre/id7"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/otmi001-single/1560290407?app=music"
+          },
+          {
+             "artistName":"Ballaké Sissoko",
+             "id":"1546075730",
+             "releaseDate":"2021-04-09",
+             "name":"Djourou",
+             "kind":"album",
+             "copyright":"℗ 2021 Nø Førmat!",
+             "artistId":"7420831",
+             "artistUrl":"https://music.apple.com/us/artist/ballak%C3%A9-sissoko/7420831?app=music",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/73/d9/8b/73d98b65-3605-7fd9-fec7-652e61f93bdd/3663729143211_cover.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"1203",
+                   "name":"African",
+                   "url":"https://itunes.apple.com/us/genre/id1203"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"50000064",
+                   "name":"French Pop",
+                   "url":"https://itunes.apple.com/us/genre/id50000064"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/djourou/1546075730?app=music"
+          },
+          {
+             "artistName":"Brett Kissel",
+             "id":"1556537903",
+             "releaseDate":"2021-04-09",
+             "name":"What Is Life?",
+             "kind":"album",
+             "copyright":"℗ 2020 BAK 2 BAK  Entertainment Inc.",
+             "artistId":"198540474",
+             "artistUrl":"https://music.apple.com/us/artist/brett-kissel/198540474?app=music",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/3d/7b/20/3d7b2038-80c7-6d4d-b04f-981c68565b47/0.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6",
+                   "name":"Country",
+                   "url":"https://itunes.apple.com/us/genre/id6"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"14",
+                   "name":"Pop",
+                   "url":"https://itunes.apple.com/us/genre/id14"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/what-is-life/1556537903?app=music"
+          },
+          {
+             "artistName":"Fil Eisler",
+             "id":"1561681965",
+             "releaseDate":"2021-04-09",
+             "name":"Thunder Force (Music From the Netflix Film)",
+             "kind":"album",
+             "copyright":"℗ 2021 Maisie Music Publishing, LLC under exclusive license to Sony Music Entertainment",
+             "artistId":"121720210",
+             "artistUrl":"https://music.apple.com/us/artist/fil-eisler/121720210?app=music",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/11/17/ec/1117ecb8-f7d6-64dd-4f6d-bc773320066e/886449195145.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"16",
+                   "name":"Soundtrack",
+                   "url":"https://itunes.apple.com/us/genre/id16"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/thunder-force-music-from-the-netflix-film/1561681965?app=music"
+          },
+          {
+             "artistName":"The Blossom",
+             "id":"1559293020",
+             "releaseDate":"2021-04-06",
+             "name":"97 BLOSSOM - EP",
+             "kind":"album",
+             "copyright":"℗ 2021 VIDEO STORE",
+             "artistId":"1518769844",
+             "contentAdvisoryRating":"Explicit",
+             "artistUrl":"https://music.apple.com/us/artist/the-blossom/1518769844?app=music",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2e/15/35/2e15357c-0069-cd22-72f9-b28a19b84018/196006392291.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"100020",
+                   "name":"Indie Pop",
+                   "url":"https://itunes.apple.com/us/genre/id100020"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"20",
+                   "name":"Alternative",
+                   "url":"https://itunes.apple.com/us/genre/id20"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/97-blossom-ep/1559293020?app=music"
+          },
+          {
+             "artistName":"Tim Montana",
+             "id":"1555161638",
+             "releaseDate":"2021-04-09",
+             "name":"Long Shots",
+             "kind":"album",
+             "copyright":"℗ 2021 Music Knox Records, LLC/This Is Hit, Inc. d/b/a BBR Music Group",
+             "artistId":"263068617",
+             "artistUrl":"https://music.apple.com/us/artist/tim-montana/263068617?app=music",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ba/f7/ce/baf7ce1d-8bb8-5f85-c759-e4f3aa919194/4050538675887.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6",
+                   "name":"Country",
+                   "url":"https://itunes.apple.com/us/genre/id6"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/long-shots/1555161638?app=music"
+          },
+          {
+             "artistName":"Manuel Turizo",
+             "id":"1561081455",
+             "releaseDate":"2021-04-09",
+             "name":"Dopamina",
+             "kind":"album",
+             "copyright":"℗ 2021 La Industria Inc., under exclusive license to Sony Music Entertainment US Latin LLC",
+             "artistId":"1186116587",
+             "artistUrl":"https://music.apple.com/us/artist/manuel-turizo/1186116587?app=music",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/45/c8/d9/45c8d9ff-5274-b33b-2b0a-e3dfe706031a/886449187263.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"1119",
+                   "name":"Urbano latino",
+                   "url":"https://itunes.apple.com/us/genre/id1119"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"12",
+                   "name":"Latin",
+                   "url":"https://itunes.apple.com/us/genre/id12"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/dopamina/1561081455?app=music"
+          },
+          {
+             "artistName":"Zexta Alianza",
+             "id":"1560934985",
+             "releaseDate":"2021-04-09",
+             "name":"A Nuesto Estilo, Vol.1 - EP",
+             "kind":"album",
+             "copyright":"℗ 2021 Rancho Humilde",
+             "artistId":"1436890666",
+             "artistUrl":"https://music.apple.com/us/artist/zexta-alianza/1436890666?app=music",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/14/93/30/149330ff-4ff8-ace5-2b73-8bf235c1f4f6/050742404901_cover.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"1123",
+                   "name":"Música Mexicana",
+                   "url":"https://itunes.apple.com/us/genre/id1123"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"12",
+                   "name":"Latin",
+                   "url":"https://itunes.apple.com/us/genre/id12"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/a-nuesto-estilo-vol-1-ep/1560934985?app=music"
+          },
+          {
+             "artistName":"Vijay Iyer, Linda May Han Oh \u0026 Tyshawn Sorey",
+             "id":"1554335764",
+             "releaseDate":"2021-04-09",
+             "name":"Uneasy",
+             "kind":"album",
+             "copyright":"℗ 2021 ECM Records GmbH, under exclusive license to Deutsche Grammophon GmbH, Berlin",
+             "artistId":"20876591",
+             "artistUrl":"https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us\u0026ids=20876591-1204922227-156856665\u0026app=music",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a5/81/9f/a5819f69-573a-7b24-cc41-b0a7acf28470/20UMGIM76825.rgb.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"11",
+                   "name":"Jazz",
+                   "url":"https://itunes.apple.com/us/genre/id11"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/uneasy/1554335764?app=music"
+          },
+          {
+             "artistName":"Teodor Currentzis \u0026 MusicAeterna",
+             "id":"1553729421",
+             "releaseDate":"2021-04-09",
+             "name":"Beethoven: Symphony No. 7 in A Major, Op. 92",
+             "kind":"album",
+             "copyright":"℗ 2021 Sony Music Entertainment",
+             "artistId":"294244653",
+             "artistUrl":"https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us\u0026ids=294244653-294244647\u0026app=music",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/8c/15/fb/8c15fbc4-75c6-f989-d84e-1b0482155f4e/886448272755.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"5",
+                   "name":"Classical",
+                   "url":"https://itunes.apple.com/us/genre/id5"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"1029",
+                   "name":"Orchestral",
+                   "url":"https://itunes.apple.com/us/genre/id1029"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/beethoven-symphony-no-7-in-a-major-op-92/1553729421?app=music"
+          },
+          {
+             "artistName":"Febem",
+             "id":"1559121671",
+             "releaseDate":"2021-04-09",
+             "name":"JOVEM OG",
+             "kind":"album",
+             "copyright":"℗ 2021 Ceia Ent. / EMPIRE",
+             "artistId":"1025209074",
+             "contentAdvisoryRating":"Explicit",
+             "artistUrl":"https://music.apple.com/us/artist/febem/1025209074?app=music",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/6a/a9/f1/6aa9f139-387d-27be-6a08-8135ebd74d31/194690482854_cover.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"18",
+                   "name":"Hip-Hop/Rap",
+                   "url":"https://itunes.apple.com/us/genre/id18"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"1122",
+                   "name":"Brazilian",
+                   "url":"https://itunes.apple.com/us/genre/id1122"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/jovem-og/1559121671?app=music"
+          },
+          {
+             "artistName":"Augustin Hadelich",
+             "id":"1551720371",
+             "releaseDate":"2021-04-09",
+             "name":"Bach: Sonatas \u0026 Partitas",
+             "kind":"album",
+             "copyright":"℗ 2021 Parlophone Records Limited, a Warner Music Group Company.",
+             "artistId":"279361423",
+             "artistUrl":"https://music.apple.com/us/artist/augustin-hadelich/279361423?app=music",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/d2/00/c8/d200c8ae-5e1a-8a5d-123f-a508386c80dc/190295047955.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"5",
+                   "name":"Classical",
+                   "url":"https://itunes.apple.com/us/genre/id5"
+                },
+                {
+                   "genreId":"34",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/us/genre/id34"
+                },
+                {
+                   "genreId":"100011",
+                   "name":"Violin",
+                   "url":"https://itunes.apple.com/us/genre/id100011"
+                },
+                {
+                   "genreId":"1018",
+                   "name":"Baroque Era",
+                   "url":"https://itunes.apple.com/us/genre/id1018"
+                },
+                {
+                   "genreId":"100003",
+                   "name":"Solo Instrumental",
+                   "url":"https://itunes.apple.com/us/genre/id100003"
+                }
+             ],
+             "url":"https://music.apple.com/us/album/bach-sonatas-partitas/1551720371?app=music"
+          }
+       ]
+    
+ }

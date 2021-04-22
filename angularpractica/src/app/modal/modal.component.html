@@ -1,0 +1,59 @@
+ 
+  <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+    Agregar Persona
+     </button>
+     
+     <!-- Modal -->
+     <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+       <div class="modal-dialog">
+         <div class="modal-content">
+           <div class="modal-header">
+             <h5 class="modal-title" id="exampleModalLabel">Agregar Persona</h5>
+             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+           </div>
+           <div class="modal-body">
+            <form [formGroup]="addpersona" (ngSubmit)="miSubmit()" >
+             <div class="mb-3">
+               <label for="Nombre" class="form-label">Nombre : </label>
+               <input class="form-control" type="text" placeholder="Nombre" formControlName="no" >
+             </div>
+             <div class="mb-3">
+              <label for="Apellidos" class="form-label">Apellidos : </label>
+              <input class="form-control" type="text" placeholder="Apellidos" formControlName="ap" >
+            </div>
+            <div class="mb-3">
+              <label for="Direccion" class="form-label">Dirección : </label>
+              <input class="form-control" type="text" placeholder="Dirección" formControlName="di" >
+            </div>
+            <label for="Pais" class="form-label">País : </label>
+             <select class="form-select" aria-label="Default select example"  formControlName="pa" >
+                <option selected>Seleccione</option>
+                <option value="Venezuela">Venezuela</option>
+                <option value="Colombia">Colombia</option>
+                <option value="México">México</option>
+              
+              </select>
+              <div class="mb-3">
+                <label for="CodigoPostal" class="form-label">Código Postal : </label>
+                <input class="form-control" type="text" placeholder="Código Postal" formControlName="co" >
+              </div>
+              <div class="mb-3">
+                <label for="Estudios" class="form-label">Estudios : </label>
+                <input class="form-control" type="text" placeholder="Estudios" formControlName="ed" >
+              </div>
+              <div class="mb-3">
+                <label for="Ocupacion" class="form-label">Ocupación : </label>
+                <input class="form-control" type="text" placeholder="Ocupación" formControlName="oc" >
+              </div>
+         
+             <button type="submit" class="btn btn-primary">Guardar</button> ||
+             <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" onclick="onResetForm();"  >Cerrar</button>
+            </form>
+           </div>
+           <div class="modal-footer">
+             
+            
+           </div>
+         </div>
+       </div>
+     </div>
